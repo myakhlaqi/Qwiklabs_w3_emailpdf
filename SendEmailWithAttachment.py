@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 
-
 from email.message import EmailMessage
 from reportlab.platypus import Paragraph, Spacer, Table, Image
 from reportlab.lib.styles import getSampleStyleSheet
