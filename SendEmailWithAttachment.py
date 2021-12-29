@@ -88,5 +88,4 @@ def sendEmail():
     mail_server.quit()
 
     
-    
 generatePDF()
