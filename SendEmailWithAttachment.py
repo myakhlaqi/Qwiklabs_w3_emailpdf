@@ -8,7 +8,7 @@ from reportlab.platypus import SimpleDocTemplate
 import smtplib
 import os.path
 import getpass
-import mimetypes
+
 
 def generatePDF():
     fruit = {
