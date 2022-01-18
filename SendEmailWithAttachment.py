@@ -5,6 +5,7 @@ from reportlab.platypus import Paragraph, Spacer, Table, Image
 from reportlab.lib.styles import getSampleStyleSheet
 from reportlab.platypus import SimpleDocTemplate
 
+import mimetypes
 import smtplib
 import os.path
 import getpass
