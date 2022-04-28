@@ -7,7 +7,7 @@ from reportlab.platypus import SimpleDocTemplate
 
 import mimetypes
 import smtplib
-import os.path
+import os.path 
 import getpass
 
 
