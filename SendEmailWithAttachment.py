@@ -58,7 +58,7 @@ def sendEmail():
 
     body = """Hey there!
 
-    I'm learning to send emails using Python!"""
+    send emails using Python!"""
     message.set_content(body)
 
     attachment_path = "./tmp/card_male.png"
