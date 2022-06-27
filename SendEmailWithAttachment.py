@@ -9,8 +9,7 @@ import mimetypes
 import smtplib
 import os.path 
 import getpass
-
-
+ 
 def generatePDF():
     fruit = {
         "elderberries": 1,
